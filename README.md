@@ -32,7 +32,6 @@ Diferente de sistemas legados que apenas alteram um número fixo de saldo, este 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend:** PHP 8.x
-- **Banco de Dados:** MySQL 8.0 / MariaDB
 - **Driver de Conexão:** PDO (PHP Data Objects) com Prepared Statements
 - **Frontend UI:** HTML5, CSS3, Bootstrap 5
 - **Controle de Versão:** Git & GitHub
